@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![](https://cdn-1252273386.cos.ap-guangzhou.myqcloud.com/images/1a081c1256a217ce9c4b866369a8bb73.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
